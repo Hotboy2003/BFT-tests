@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "bft"
+version = "0.1.0"
+description = ""
+authors = ["Hotboy2003 <alex.obyn@yandex.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+selenium = "^4.25.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
